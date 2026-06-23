@@ -1,0 +1,11 @@
+feature,mean_abs_shap
+TransactionAmt,0.49925455
+TransactionAmt_log,0.2807741
+M4,0.26609105
+C14,0.2558003
+card6,0.2102359
+C1,0.20099872
+D3,0.17687522
+C11,0.1537548
+D5,0.1525812
+Transaction_hour,0.14909305
